@@ -40,5 +40,13 @@ namespace SistemaGestionIntegralGrupo3
             
 
         }
+
+        public static void Despedida()
+        {
+            Console.WriteLine("\n Gracias por Usar nuestro Sistema, Hasta Luego ");
+            Console.ReadKey();
+        }
+
+
     }
 }

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SistemaGestionIntegralGrupo3.Usuario">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAAgAAAQAAAAAAAIgAQAAQAgRAgAAAAAAAIAFQA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestionIntegralGrupo3.Correspondencia">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAQAQAAAAAAAAgAAQAgAAAAAAAAAAAAIAAEA=</HashCode>
+      <FileName>Correspondencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestionIntegralGrupo3.UsuarioAdministrador">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgEAAQAAAAQAAAAAQAAQAARAgAAIAAAAAABQA=</HashCode>
+      <FileName>UsuarioAdministrador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestionIntegralGrupo3.Program" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestionIntegralGrupo3.Sistema">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sistema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -8,8 +8,11 @@ namespace SistemaGestionIntegralGrupo3
 {
     public class Sistema
     {
+		
 		public void MenuPrincipal()
 		{
+			Console.WriteLine("Hola Bienvenido a nuestro Sistema");
+			Validador.Despedida();
 			Console.Clear();
 			int opcion;
 			string nombre, clave;
@@ -17,7 +20,7 @@ namespace SistemaGestionIntegralGrupo3
 			int posUsuarioS;
 			int posUsuarioC;
 
-			/*
+			/* 
 			do
 			{
 				Console.Clear();
